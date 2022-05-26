@@ -1,0 +1,10 @@
+# the minimum value from a given matrix.
+
+import numpy as np
+          
+ygfg = np.matrix('[64, 1; 12, 3]')
+          
+
+geeks = gfg.min()
+    
+print(geeks)
