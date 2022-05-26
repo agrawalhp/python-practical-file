@@ -1,0 +1,11 @@
+ # maximum value from a given matrix .
+ 
+ import numpy as np
+          
+
+gfg = np.matrix('[64, 1; 12, 3]')
+          
+# applying matrix.max() method
+geeks = gfg.max()
+    
+print(geeks)
