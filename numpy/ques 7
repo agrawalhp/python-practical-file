@@ -1,0 +1,10 @@
+# By selecting one index we get only one value in a matrix.
+import numpy as np
+              
+
+gfg = np.matrix('[4, 1, 12, 3, 4, 6, 7]')
+              
+
+geek = gfg.take(2)
+    
+print(geek)
