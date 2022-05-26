@@ -1,0 +1,11 @@
+# How to create an empty and a full NumPy array?
+
+import numpy as np
+  
+  
+
+empa = np.empty((3, 4), dtype=int)
+print("Empty Array")
+print(empa)
+  
+
